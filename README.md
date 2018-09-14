@@ -13,4 +13,4 @@
 - 
 
 ## 토큰 이코노미
-![tokeneconomy_bookcircle](https://user-images.githubusercontent.com/43138286/45532450-129c3180-b82f-11e8-80ad-8de258572cec.PNG)
+![tokeneconomy_bookcircle_](https://user-images.githubusercontent.com/43138286/45532827-5e9ba600-b830-11e8-9dd4-62f5cc71418d.PNG)
